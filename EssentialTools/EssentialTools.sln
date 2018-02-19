@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EssentialTools", "EssentialTools\EssentialTools.csproj", "{B288A2BF-B4BB-4033-9272-63D1CC3F9853}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EssentialTools.Test", "EssentialTools.Test\EssentialTools.Test.csproj", "{2986D3F1-D1BA-4F7E-A0F9-9570D8580753}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B288A2BF-B4BB-4033-9272-63D1CC3F9853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B288A2BF-B4BB-4033-9272-63D1CC3F9853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B288A2BF-B4BB-4033-9272-63D1CC3F9853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B288A2BF-B4BB-4033-9272-63D1CC3F9853}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2986D3F1-D1BA-4F7E-A0F9-9570D8580753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2986D3F1-D1BA-4F7E-A0F9-9570D8580753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2986D3F1-D1BA-4F7E-A0F9-9570D8580753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2986D3F1-D1BA-4F7E-A0F9-9570D8580753}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F193768-D8FF-412F-B7D7-EA269AF3F049}
+	EndGlobalSection
+EndGlobal
